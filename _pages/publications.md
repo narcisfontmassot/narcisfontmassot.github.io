@@ -17,6 +17,6 @@ Coming soon
 
  <div class="publications">
 
-{% bibliography %}
+<!-- {% bibliography %} -->
 
 </div> 
