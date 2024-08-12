@@ -3,7 +3,7 @@ layout: page
 title: Research
 description: Current research projects
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 
