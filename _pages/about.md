@@ -28,6 +28,6 @@ I combine theoretical, computational, and experimental work to gain insights int
 
 You can reach me via email at: [nfont@ab.mpg.de](nfont@ab.mpg.de).
 
-You can download my CV [here](assets/pdf/narcis_cv.pdf).
+You can find my CV [here](assets/pdf/narcis_cv.pdf).
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
