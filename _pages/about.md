@@ -15,9 +15,9 @@ news: False # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False # includes social icons at the bottom of the page
 ---
-PhD Student 
-
 Webpage under construction 
+
+PhD Student 
 
 Max Planck Institute of Animal Behavior [MPI-AB](https://www.ab.mpg.de/) and Cluster of Advance Studies of Collective Behaviour [CASCB](https://www.exc.uni-konstanz.de/collective-behaviour/)
 
@@ -26,6 +26,6 @@ My research is aimed at understanding collective animal behavior; I use C. elega
 I combine theoretical, computational, and experimental work to gain insights into the mechanistic aspects and the evolutionary foundations of the nematode behavior, specially focusing on how complex social environments affects the collective behavior, and study the kin recognition strategies.
 
 
-You can reach me via email at [nfont@ab.mpg.de](nfont@ab.mpg.de).
+You can reach me via email at: [nfont@ab.mpg.de](nfont@ab.mpg.de).
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
