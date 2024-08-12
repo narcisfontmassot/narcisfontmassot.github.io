@@ -15,8 +15,8 @@ Coming soon
 
 <!--  {% include bib_search.liquid %} -->
 
-<!-- <div class="publications">
+ <div class="publications">
 
 {% bibliography %}
 
-</div> -->
+</div> 
