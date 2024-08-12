@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Research 2
+title: Research
 description: Current research projects
-importance: 3
-giscus_comments: true
+nav: true
+nav_order: 3
+horizontal: false
 ---
 
 <div style="text-align: center;">
