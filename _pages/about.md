@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: /
+subtitle: 
 
 profile:
   align: right
@@ -17,9 +17,9 @@ social: False # includes social icons at the bottom of the page
 ---
 PhD Student 
 
-Max Planck Institute of Animal Behavior [MPI-AB] (https://www.ab.mpg.de/) and Cluster of Advance Studies of Collective Behaviour [CASCB] (https://www.exc.uni-konstanz.de/collective-behaviour/)
+Webpage under construction 
 
-Webpage in construction 
+Max Planck Institute of Animal Behavior [MPI-AB](https://www.ab.mpg.de/) and Cluster of Advance Studies of Collective Behaviour [CASCB](https://www.exc.uni-konstanz.de/collective-behaviour/)
 
 My research is aimed at understanding collective animal behavior; I use C. elegans, and other nematode species, as a model system to comprehend how the social interaction among individual organisms give rise to pattern and structures at higher levels of organization, and why these interactions have evolved. 
 
