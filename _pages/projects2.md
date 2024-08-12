@@ -14,7 +14,12 @@ horizontal: false
 <h2>WORMIX Project: The effect of the complex social environment on the collective behavior of nematodes</h2>
 
 <figure style="display: inline-block;">
-    <img src="assets/img/wormix1.png" alt="Project 1 Image" style="width: 50%;">
+    <img src="/assets/img/wormix1.png" alt="Project 1 Image" style="width: 50%;">
+    <figcaption>Figure 1: Description of Project 1 Image</figcaption>
+</figure>
+
+<figure style="display: inline-block;">
+    <img src="../assets/img/wormix1.jpg" alt="Project 1 Image" style="width: 50%;">
     <figcaption>Figure 1: Description of Project 1 Image</figcaption>
 </figure>
 
