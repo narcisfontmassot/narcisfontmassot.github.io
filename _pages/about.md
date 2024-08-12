@@ -25,4 +25,7 @@ My research is aimed at understanding collective animal behavior; I use C. elega
 
 I combine theoretical, computational, and experimental work to gain insights into the mechanistic aspects and the evolutionary foundations of the nematode behavior, specially focusing on how complex social environments affects the collective behavior, and study the kin recognition strategies.
 
+
+You can reach me via email at [nfont@ab.mpg.de](nfont@ab.mpg.de).
+
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
