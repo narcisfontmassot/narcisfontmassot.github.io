@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Narcís
-middle_name: 
+middle_name:
 last_name: Font Massot
 email: nfont@ab.mpg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
