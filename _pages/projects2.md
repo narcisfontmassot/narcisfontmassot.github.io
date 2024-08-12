@@ -2,6 +2,7 @@
 layout: page
 title: Research
 description: Current research projects
+permalink: /projects/
 nav: true
 nav_order: 2
 horizontal: false
