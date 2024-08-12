@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: 
+description: Current Research Projects
 permalink: /projects/
 nav: true
 nav_order: 2
@@ -10,7 +10,6 @@ horizontal: false
 
 <div style="text-align: center;">
 
-<h1>Current Research Projects</h1>
 
 <h2>WORMIX Project: The effect of the complex social environment on the collective behavior of nematodes</h2>
 
