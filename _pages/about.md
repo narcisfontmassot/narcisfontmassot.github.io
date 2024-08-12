@@ -1,8 +1,8 @@
 ---
 layout: about
-title: PhD Student
+title: about
 permalink: /
-subtitle: Max Planck Institute of Animal Behavior, Cluster of Advance Studies of Collective Behaviour
+subtitle: /
 
 profile:
   align: right
@@ -15,6 +15,9 @@ news: False # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False # includes social icons at the bottom of the page
 ---
+PhD Student 
+
+Max Planck Institute of Animal Behavior [MPI-AB] (https://www.ab.mpg.de/) and Cluster of Advance Studies of Collective Behaviour [CASCB] (https://www.exc.uni-konstanz.de/collective-behaviour/)
 
 Webpage in construction 
 
