@@ -12,7 +12,7 @@ horizontal: false
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;">
 
-<h2>WORMIX Project: The effect of the complex social environment on the collective behavior of nematodes</h2>
+<h2>WORMIX Project: The effect of complex social environments on the collective behavior of nematodes</h2>
 
 <figure style="display: inline-block;">
     <img src="/assets/img/wormix1.png" alt="Project 1 Image" style="width: 70%;">
@@ -35,5 +35,12 @@ Building upon our previous work, we are examining the effect of complex social c
 <h2>Collective Gradient Sensing in Nematodes</h2>
 
 <p><strong>Description:</strong> Collective gradient sensing is a widespread phenomenon in many biological systems where individuals collectively detect and respond to environmental gradients with increased accuracy. However, whether collective sensing exists for <em>C. elegans</em> is rarely looked at and not yet established. Our aim is to investigate if and how collective sensing emerges at the group level in <em>C. elegans</em> through individual behavioral responses to local chemical gradients (odor sources and pheromones) and via social interactions.</p>
+
+
+<hr style="border: 1px solid #ccc; margin: 40px 0;">
+
+<h2>Worm Towers: Self-Assemblies of worms</h2>
+
+<p><strong>Description:</strong> Worm towers are fascinating examples of collective self-assemblies, where individual worms link together to form functional, adaptive structures. These towers serve as a collective dispersal strategy. This study explores the formation of worm towers, and my contribution on this work focuses on quantifying the individual behavior outside the tower and the distribution of worm sizes within the tower. By quantifying these behaviors and size distributions, we can gain deeper insights into the mechanisms driving collective behavior, understand the factors influencing tower stability, and predict how such structures might adapt to environmental changes.
 
 </div>
