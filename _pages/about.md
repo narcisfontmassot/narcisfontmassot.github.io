@@ -21,7 +21,7 @@ PhD Student at the Max Planck Institute of Animal Behavior [MPI-AB](https://www.
 
 Part of the Genes and Behavior Research Group: [Ding Lab](https://www.serenadinglab.com/)
 
-My research is aimed at understanding collective animal behavior; I use C. elegans, and other nematode species, as a model system to comprehend how the social interaction among individual organisms give rise to pattern and structures at higher levels of organization, and why these interactions have evolved. 
+My research is aimed at understanding collective animal behavior; I use <em>C. eleganss</em>, and other nematode species, as a model system to comprehend how the social interaction among individual organisms give rise to pattern and structures at higher levels of organization, and why these interactions have evolved. 
 
 I combine theoretical, computational, and experimental work to gain insights into the mechanistic aspects and the evolutionary foundations of the nematode behavior, specially focusing on how complex social environments affects the collective behavior, and study the kin recognition strategies.
 

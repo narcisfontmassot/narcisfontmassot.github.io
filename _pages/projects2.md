@@ -10,6 +10,7 @@ horizontal: false
 
 <div style="text-align: center;">
 
+<hr style="border: 1px solid #ccc; margin: 40px 0;">
 
 <h2>WORMIX Project: The effect of the complex social environment on the collective behavior of nematodes</h2>
 
@@ -27,6 +28,8 @@ Building upon our previous work, we are examining the effect of complex social c
     <figcaption>Figure 2: Description of Project 2 Image</figcaption>
 </figure>
 <br>
+
+<hr style="border: 1px solid #ccc; margin: 40px 0;">
 
 <h2>Collective Gradient Sensing in Nematodes</h2>
 
