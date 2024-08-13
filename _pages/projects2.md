@@ -16,7 +16,7 @@ horizontal: false
 
 <figure style="display: inline-block;">
     <img src="/assets/img/wormix1.png" alt="Project 1 Image" style="width: 70%;">
-    <figcaption>Group experemiment Mixing two different strains</figcaption>
+    <figcaption>Figure 1: Group experiment mixing two different strains</figcaption>
 </figure>
 
 
@@ -25,7 +25,7 @@ Building upon our previous work, we are examining the effect of complex social c
 
 <figure style="display: inline-block;">
     <img src="/assets/img/wormix2.png" alt="Project 2 Image" style="width: 50%;">
-    <figcaption>(Top) Social context experimental design. We investigate worms with different genetic backgrounds that display different collective behaviors in a mixed setting to observe and analyze context-dependent behaviors. Worms are head-labeled with different fluorescent markers for precise tracking and identification. 
+    <figcaption>Figure 2: (Top) Social context experimental design. We investigate worms with different genetic backgrounds that display different collective behaviors in a mixed setting to observe and analyze context-dependent behaviors. Worms are head-labeled with different fluorescent markers for precise tracking and identification. 
     (Bottom) Individual-based model description. Our model combines a random worm-like walk with a modified version of the classical zonal model, incorporating selective interactions to simulate the observed behaviors and decipher how the collective dynamics arise from different types of individual interactions.</figcaption>
 </figure>
 <br>
