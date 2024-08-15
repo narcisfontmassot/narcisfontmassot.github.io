@@ -45,5 +45,3 @@ Building upon our previous work, we are examining the effect of complex social c
 
 <p><strong>Description:</strong> Worm towers are fascinating examples of collective self-assemblies, where individual worms link together to form functional, adaptive structures. These towers serve as a collective dispersal strategy. This study explores the formation of worm towers, and my contribution on this work focuses on quantifying the individual behavior outside the tower and the distribution of worm sizes within the tower. By quantifying these behaviors and size distributions, we can gain deeper insights into the mechanisms driving collective behavior, understand the factors influencing tower stability, and predict how such structures might adapt to environmental changes.
 
-
-</div>
