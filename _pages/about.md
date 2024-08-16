@@ -14,9 +14,8 @@ news: False # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False # includes social icons at the bottom of the page
 ---
-(Webpage under construction )
 
-I am an [IMPRS-QBEE](https://imprs-qbee.mpg.de/) doctoral student at the Max Planck Institute of Animal Behavior ([MPI-AB](https://www.ab.mpg.de/)) and Cluster of Advance Studies of Collective Behaviour ([CASCB](https://www.exc.uni-konstanz.de/collective-behaviour/)), plus part of the Genes and Behavior Research Group ([Ding Lab](https://www.serenadinglab.com/)).
+I am an [IMPRS-QBEE](https://imprs-qbee.mpg.de/) doctoral student at the Max Planck Institute of Animal Behavior ([MPI-AB](https://www.ab.mpg.de/)) and Cluster of Advance Studies of Collective Behaviour ([CASCB](https://www.exc.uni-konstanz.de/collective-behaviour/)), and part of the Genes and Behavior Research Group ([Ding Lab](https://www.serenadinglab.com/)).
 
 My research is aimed at understanding collective animal behavior; I use <em>C. elegans</em>, and other nematode species, as a model system to comprehend how the social interaction among individual organisms give rise to pattern and structures at higher levels of organization, and why these interactions have evolved. 
 
