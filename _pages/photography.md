@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photography
+title: 
 description: 
 permalink: /photography/
 nav: true
@@ -19,17 +19,25 @@ horizontal: false
 <!-- Photo with description to the right -->
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: center;">
     <img src="{{ site.baseurl }}/assets/img/Photos/Photo1.jpg" alt="Photo 1" style="width: 100%; max-width: 600px; border-radius: 8px;">
-    <div style="text-align: left; font-size: 1.1em; color: #aaa;">
-        <p>This is a description of Photo 1. Provide some context or an interesting story about this image.</p>
+    <div style="text-align: left; font-size: 1.0em; color: #555;">
+        <p>Arosa, October 2024, 35mm B/W film</p>
     </div>
 </div>
 
 <!-- Photo with description to the left -->
 <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px; align-items: center;">
-    <div style="text-align: right; font-size: 1.1em; color: #aaa;">
-        <p>This is a description of Photo 2. Alternate layouts add variety to your gallery.</p>
+    <div style="text-align: right; font-size: 1.0em; color: #555;">
+        <p >Konstanz, September 2024, 35mm B/W film</p>
     </div>
     <img src="{{ site.baseurl }}/assets/img/Photos/Photo2.jpg" alt="Photo 2" style="width: 100%; max-width: 600px; border-radius: 8px;">
+</div>
+
+<!-- Photo with description to the right -->
+<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: center;">
+    <img src="{{ site.baseurl }}/assets/img/Photos/Photo3.jpg" alt="Photo 1" style="width: 100%; max-width: 600px; border-radius: 8px;">
+    <div style="text-align: left; font-size: 1.0em; color: #555;">
+        <p>Konstanz, September 2024, 35mm B/W film</p>
+    </div>
 </div>
 
 </div>
