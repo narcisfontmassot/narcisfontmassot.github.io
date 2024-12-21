@@ -1,6 +1,6 @@
 ---
 layout: page
-title: photography
+title: Photography
 description: 
 permalink: /photography/
 nav: true
