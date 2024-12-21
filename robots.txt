@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://narcisfont.github.io/sitemap.xml
+Sitemap: https://narcisfontmassot.github.io/sitemap.xml
