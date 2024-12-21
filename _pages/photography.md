@@ -11,6 +11,12 @@ horizontal: false
 
 <div style="text-align: center;">
 
+<style>
+    div[style*="font-size: 1.0em"] {
+        font-family: 'Lora', serif;
+    }
+</style>
+
 <h1 style="font-size: 2em; margin-bottom: 20px;">Photography</h1>
 
 <!-- Photo-Description Pairs -->
