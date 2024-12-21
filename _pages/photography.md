@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: photography
 description: 
 permalink: /photography/
 nav: true
@@ -17,7 +17,6 @@ horizontal: false
     }
 </style>
 
-<h1 style="font-size: 2em; margin-bottom: 20px;">Photography</h1>
 
 <!-- Photo-Description Pairs -->
 <div style="display: grid; gap: 30px; padding: 20px;">
@@ -25,14 +24,14 @@ horizontal: false
 <!-- Photo with description to the right -->
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: center;">
     <img src="{{ site.baseurl }}/assets/img/Photos/Photo1.jpg" alt="Photo 1" style="width: 100%; max-width: 600px; border-radius: 8px;">
-    <div style="text-align: left; font-size: 1.0em; color: #555;">
+    <div style="text-align: left; font-size: 0.9em; color: #555;">
         <p>Arosa, October 2024, 35mm B/W film</p>
     </div>
 </div>
 
 <!-- Photo with description to the left -->
 <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px; align-items: center;">
-    <div style="text-align: right; font-size: 1.0em; color: #555;">
+    <div style="text-align: right; font-size: 0.9em; color: #555;">
         <p >Konstanz, September 2024, 35mm B/W film</p>
     </div>
     <img src="{{ site.baseurl }}/assets/img/Photos/Photo2.jpg" alt="Photo 2" style="width: 100%; max-width: 600px; border-radius: 8px;">
@@ -41,7 +40,7 @@ horizontal: false
 <!-- Photo with description to the right -->
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: center;">
     <img src="{{ site.baseurl }}/assets/img/Photos/Photo3.jpg" alt="Photo 1" style="width: 100%; max-width: 600px; border-radius: 8px;">
-    <div style="text-align: left; font-size: 1.0em; color: #555;">
+    <div style="text-align: left; font-size: 0.9em; color: #555;">
         <p>Konstanz, September 2024, 35mm B/W film</p>
     </div>
 </div>
