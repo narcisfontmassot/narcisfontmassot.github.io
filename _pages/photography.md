@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Photography
 description: 
 permalink: /photography/
@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-<style>
+<!--<style>
   .photo-container {
     margin: 40px auto;
     max-width: 600px;
@@ -28,6 +28,39 @@ nav_order: 4
 
   .photo-caption {
     margin-top: 10px;
+    font-size: 0.9em;
+    color: #555;
+    font-family: 'Lora', serif;
+  }
+</style>
+
+<!-- Lightbox2 CSS/JS is assumed to be loaded in _includes/head_custom.html -->
+
+<style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+  }
+
+  .gallery-item {
+    text-align: center;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease;
+    cursor: zoom-in;
+  }
+
+  .gallery-item img:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  }
+
+  .photo-caption {
+    margin-top: 8px;
     font-size: 0.9em;
     color: #555;
     font-family: 'Lora', serif;
