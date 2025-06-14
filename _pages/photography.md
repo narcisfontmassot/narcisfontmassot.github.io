@@ -8,6 +8,9 @@ nav_order: 4
 ---
 
 <!-- Lightbox CSS & JS should be included globally, e.g. in _includes/head_custom.html -->
+<!-- Lightbox2 CDN -->
+<link href="https://cdn.jsdelivr.net/npm/lightbox2@2/dist/css/lightbox.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/lightbox2@2/dist/js/lightbox.min.js"></script>
 
 <style>
   .photo-container {
