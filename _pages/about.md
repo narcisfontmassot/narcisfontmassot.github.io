@@ -26,4 +26,4 @@ You can reach me via email at: [nfont (at) ab.mpg.de](nfont@ab.mpg.de)
 
 You can find my CV [here](assets/pdf/narcis_cv.pdf)
 
-Follow me on Bluesky (https://bsky.app/profile/narcisfontmassot.bsky.social)
+Follow me on Bluesky: (https://bsky.app/profile/narcisfontmassot.bsky.social)
