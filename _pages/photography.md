@@ -5,46 +5,53 @@ description:
 permalink: /photography/
 nav: true
 nav_order: 4
-horizontal: false
 ---
 
-
-<div style="text-align: center;">
+<!-- Lightbox CSS & JS should be included globally, e.g. in _includes/head_custom.html -->
 
 <style>
-    div[style*="font-size: 1.0em"] {
-        font-family: 'Lora', serif;
-    }
+  .photo-container {
+    margin: 40px auto;
+    max-width: 800px;
+    text-align: center;
+  }
+
+  .photo-container img {
+    width: 100%;
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease;
+    cursor: zoom-in;
+  }
+
+  .photo-container img:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  }
+
+  .photo-caption {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #555;
+    font-family: 'Lora', serif;
+  }
 </style>
 
-
-<!-- Photo-Description Pairs -->
-<div style="display: grid; gap: 30px; padding: 20px;">
-
-<!-- Photo with description to the right -->
-<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: center;">
-    <img src="{{ site.baseurl }}/assets/img/Photos/Photo1.jpg" alt="Photo 1" style="width: 100%; max-width: 600px; border-radius: 8px;">
-    <div style="text-align: left; font-size: 0.9em; color: #555;">
-        <p>Arosa, October 2024, 35mm B/W film</p>
-    </div>
+<div class="photo-container">
+  <a href="{{ site.baseurl }}/assets/img/Photos/Photo1.jpg" data-lightbox="gallery" title="Arosa, October 2024, 35mm B/W film">
+    <img src="{{ site.baseurl }}/assets/img/Photos/Photo1.jpg" alt="Photo 1">
+  </a>
+  <div class="photo-caption">Arosa, October 2024, 35mm B/W film</div>
 </div>
 
-<!-- Photo with description to the left -->
-<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px; align-items: center;">
-    <div style="text-align: right; font-size: 0.9em; color: #555;">
-        <p >Konstanz, September 2024, 35mm B/W film</p>
-    </div>
-    <img src="{{ site.baseurl }}/assets/img/Photos/Photo2.jpg" alt="Photo 2" style="width: 100%; max-width: 600px; border-radius: 8px;">
+<div class="photo-container">
+  <a href="{{ site.baseurl }}/assets/img/Photos/Photo2.jpg" data-lightbox="gallery" title="Konstanz, September 2024, 35mm B/W film">
+    <img src="{{ site.baseurl }}/assets/img/Photos/Photo2.jpg" alt="Photo 2">
+  </a>
+  <div class="photo-caption">Konstanz, September 2024, 35mm B/W film</div>
 </div>
 
-<!-- Photo with description to the right -->
-<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: center;">
-    <img src="{{ site.baseurl }}/assets/img/Photos/Photo3.jpg" alt="Photo 1" style="width: 100%; max-width: 600px; border-radius: 8px;">
-    <div style="text-align: left; font-size: 0.9em; color: #555;">
-        <p>Konstanz, September 2024, 35mm B/W film</p>
-    </div>
-</div>
-
-</div>
-
+<div class="photo-container">
+  <a href="{{ site.baseurl }}/assets/img/Photos/Photo3.jpg" data-lightbox="gallery" title="Konstanz, September 2024, 35mm B/W film">
+    <img src="{{ site.baseurl }}/assets/img/Photos/Photo3.jpg" alt="Photo 3">
+  </a>
+  <div class="photo-caption">Konstanz, September 2024, 35mm B/W film</div>
 </div>
