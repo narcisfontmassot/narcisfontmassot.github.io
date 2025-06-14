@@ -22,6 +22,8 @@ My research is aimed at understanding collective animal behavior; I use <em>C. e
 I combine theoretical, computational, and experimental work to gain insights into the mechanistic aspects and the evolutionary foundations of the nematode behavior, specially focusing on how complex social environments affects the collective behavior, and study the kin recognition strategies.
 
 
-You can reach me via email at: [nfont@ab.mpg.de](nfont@ab.mpg.de)
+You can reach me via email at: [nfont (at) ab.mpg.de](nfont@ab.mpg.de)
 
 You can find my CV [here](assets/pdf/narcis_cv.pdf)
+
+Follow me on Bluesky (https://bsky.app/profile/narcisfontmassot.bsky.social)
