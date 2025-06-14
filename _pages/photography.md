@@ -36,22 +36,22 @@ nav_order: 4
 </style>
 
 <div class="photo-container">
-  <a href="{{ site.baseurl }}/assets/img/Photos/Photo1.jpg" data-lightbox="gallery" title="Arosa, October 2024, 35mm B/W film">
-    <img src="{{ site.baseurl }}/assets/img/Photos/Photo1.jpg" alt="Photo 1">
+  <a href="assets/img/Photos/Photo1.jpg" data-lightbox="gallery" title="Arosa, October 2024, 35mm B/W film">
+    <img src="assets/img/Photos/Photo1.jpg" alt="Photo 1">
   </a>
   <div class="photo-caption">Arosa, October 2024, 35mm B/W film</div>
 </div>
 
 <div class="photo-container">
-  <a href="{{ site.baseurl }}/assets/img/Photos/Photo2.jpg" data-lightbox="gallery" title="Konstanz, September 2024, 35mm B/W film">
-    <img src="{{ site.baseurl }}/assets/img/Photos/Photo2.jpg" alt="Photo 2">
+  <a href="assets/img/Photos/Photo2.jpg" data-lightbox="gallery" title="Konstanz, September 2024, 35mm B/W film">
+    <img src="assets/img/Photos/Photo2.jpg" alt="Photo 2">
   </a>
   <div class="photo-caption">Konstanz, September 2024, 35mm B/W film</div>
 </div>
 
 <div class="photo-container">
-  <a href="{{ site.baseurl }}/assets/img/Photos/Photo3.jpg" data-lightbox="gallery" title="Konstanz, September 2024, 35mm B/W film">
-    <img src="{{ site.baseurl }}/assets/img/Photos/Photo3.jpg" alt="Photo 3">
+  <a href="assets/img/Photos/Photo3.jpg" data-lightbox="gallery" title="Konstanz, September 2024, 35mm B/W film">
+    <img src="assets/img/Photos/Photo3.jpg" alt="Photo 3">
   </a>
   <div class="photo-caption">Konstanz, September 2024, 35mm B/W film</div>
 </div>
