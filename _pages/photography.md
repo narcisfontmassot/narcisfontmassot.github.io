@@ -7,6 +7,13 @@ nav: true
 nav_order: 4
 ---
 
+<!-- Lightbox2 CSS -->
+<link href="https://cdn.jsdelivr.net/npm/lightbox2@2/dist/css/lightbox.min.css" rel="stylesheet" />
+
+<!-- Lightbox2 JS -->
+<script src="https://cdn.jsdelivr.net/npm/lightbox2@2/dist/js/lightbox.min.js"></script>
+
+
 <style>
   .photo-container {
     margin: 40px auto;
