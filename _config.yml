@@ -311,8 +311,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Font-Massot]
-  first_name: [Narcís]
+  last_name: [Font-Massot,Narcís, Narcís Font-Massot]
+  first_name: [Narcís, Font-Massot, Narcís Font-Massot]
 
   style: apa
   locale: en
