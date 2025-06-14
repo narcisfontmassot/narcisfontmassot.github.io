@@ -7,12 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-<!-- Lightbox2 CSS -->
-<link href="https://cdn.jsdelivr.net/npm/lightbox2@2/dist/css/lightbox.min.css" rel="stylesheet" />
-
-<!-- Lightbox2 JS -->
-<script src="https://cdn.jsdelivr.net/npm/lightbox2@2/dist/js/lightbox.min.js"></script>
-
 
 <style>
   .photo-container {
@@ -62,12 +56,12 @@ nav_order: 4
   <a href="{{ site.baseurl }}/assets/img/Photos/Photo3.jpg" data-lightbox="gallery" title="Iceland, May 2025, 35mm Color film">
     <img src="{{ site.baseurl }}/assets/img/Photos/Photo3.jpg" alt="Photo 3">
   </a>
-  <div class="photo-caption">Konstanz, September 2024, 35mm B/W film</div>
+  <div class="photo-caption">Iceland, May 2025, 35mm Color film</div>
 </div>
 
 <div class="photo-container">
   <a href="{{ site.baseurl }}/assets/img/Photos/Photo4.jpg" data-lightbox="gallery" title="Iceland, May 2025, 35mm Color film">
     <img src="{{ site.baseurl }}/assets/img/Photos/Photo4.jpg" alt="Photo 3">
   </a>
-  <div class="photo-caption">Konstanz, September 2024, 35mm B/W film</div>
+  <div class="photo-caption">Iceland, May 2025, 35mm Color film</div>
 </div>
