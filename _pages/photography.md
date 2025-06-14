@@ -7,12 +7,10 @@ nav: true
 nav_order: 4
 ---
 
-<!-- Lightbox CSS & JS should be included globally, e.g. in _includes/head_custom.html -->
-
 <style>
   .photo-container {
     margin: 40px auto;
-    max-width: 800px;
+    max-width: 600px;
     text-align: center;
   }
 
