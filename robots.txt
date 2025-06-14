@@ -1,6 +1,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://narcisfontmassot.github.iohttps://narcisfontmassot.github.io/sitemap.xml
+Sitemap: https://narcisfontmassot.github.io/sitemap.xml
 
 google-site-verification=4ENXxD1hyqRY-5fkHBX8i2xH8EVlzCcuhi6t7rW5ukg
